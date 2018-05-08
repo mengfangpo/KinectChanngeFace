@@ -1,0 +1,20 @@
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\A\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+H:\2017大三上学期\创新实验项目\创新实验项目最终程序--叶云梦-李亚琨组\两人变脸开始结束\WpfApp1\bin\Debug\WpfApp1.exe.config
+H:\2017大三上学期\创新实验项目\创新实验项目最终程序--叶云梦-李亚琨组\两人变脸开始结束\WpfApp1\obj\Debug\WpfApp1.exe
+H:\2017大三上学期\创新实验项目\创新实验项目最终程序--叶云梦-李亚琨组\两人变脸开始结束\WpfApp1\obj\Debug\WpfApp1.pdb
